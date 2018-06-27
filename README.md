@@ -1,32 +1,26 @@
 # clojure-noob
 
-FIXME: description
+Exercises from the [CLOJURE for the BRAVE and TRUE](https://www.braveclojure.com/) book.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+How to install Lein: https://leiningen.org/
+
+## Build
+
+Build the project to create an executable JAR file:
+
+    $ lein uberjar
+
+Run the unit tests:
+
+    $ lein tests
 
 ## Usage
 
-FIXME: explanation
+Run:
 
     $ java -jar clojure-noob-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
